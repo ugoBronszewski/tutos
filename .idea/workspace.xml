@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00bdd890-fba3-491f-8df6-5abb824a6000" name="Default Changelist" comment="" />
+    <list default="true" id="00bdd890-fba3-491f-8df6-5abb824a6000" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vps/apache-ep1/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/vps/apache-ep1/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vps/apache-ep1/script.sh" beforeDir="false" afterPath="$PROJECT_DIR$/vps/apache-ep1/script.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +54,11 @@
       <option name="presentableId" value="Default" />
       <updated>1588695050612</updated>
       <workItem from="1588695051854" duration="11465000" />
+      <workItem from="1588726342673" duration="4716000" />
+      <workItem from="1588832004864" duration="78000" />
+      <workItem from="1589711787865" duration="1984000" />
+      <workItem from="1589732477115" duration="2115000" />
+      <workItem from="1589973621951" duration="40000" />
     </task>
     <servers />
   </component>
@@ -61,6 +70,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588719836113" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1588726749335">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1588726749335" />
     <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1588723376369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

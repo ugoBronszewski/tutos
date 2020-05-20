@@ -17,8 +17,7 @@ dédié).
 Configuration de ma VM : `Debian 10 (Buster)`
 
 ```diff
-- Attention : si vous utilisez un VPS ou un serveur dédié pour suivre ce tutoriel, veillez à faire une sauvegarde de vos
-données avant de commencer !
+- Attention : si vous utilisez un VPS ou un serveur dédié pour suivre ce tutoriel, veillez à faire une sauvegarde de vos données avant de commencer !
 ```
 
 ## Démarage : mises à jour et installations
@@ -28,18 +27,18 @@ Commecez par vous connectez en ssh à votre serveur.
 Normalement votre hébergeur vous a envoyé les identifiants de l'utilisateur `root`. 
 
 ```shell script
-ssh root@adress.ip.du.serveur
+ssh root@adresse.ip.du.serveur
 ```
 
 ### Mises à jour
 ```bash
-apt upate
+apt update
 apt upgrade
 ```
 
 ### Installation d'aptitude et de vim
 ```bash
-apt-get insatall aptitude vim
+apt-get install aptitude vim
 ```
 
 ### Installation d'`apache2`, `Php`, `composer`et `git`
