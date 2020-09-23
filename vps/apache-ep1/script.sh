@@ -37,5 +37,5 @@ sudo git clone https://github.com/hayanisaid/bootstrap4-website.git /var/www/"$d
 sudo mkdir -p /var/www/"$domain"/logs
 sudo chmod -R 755 /var/www/"$domain"/logs
 
-sudo a2ensite "$domain".conf
+sudo a2ensite "${domain}.conf"
 sudo systemctl reload apache2

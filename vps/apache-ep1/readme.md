@@ -2,12 +2,12 @@
 
 **Prérequis**
 
-Avoir une machine virtuelle ou un serveur (VPS ou dédié)
+- Avoir une machine virtuelle ou un serveur (VPS ou dédié)
+- Connaitre les commandes bash de base (`ls`, `cd`, `mv`, *etc.*)
+- `vim` (peut être remplcé par tout éditeur en ligne de commande)
 
-`vim` (peut être remplcé par tout éditeur en ligne de commande)
 
-
-_Je sais que certaines personnes vont me destester, mais voilà... j'utilise `vim`!_
+*Je sais que certaines personnes vont me destester, mais voilà... j'utilise `vim`!*
 
 ---
 

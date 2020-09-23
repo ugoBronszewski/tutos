@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="00bdd890-fba3-491f-8df6-5abb824a6000" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vps/apache-ep1/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/vps/apache-ep1/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vps/apache-ep1/script.sh" beforeDir="false" afterPath="$PROJECT_DIR$/vps/apache-ep1/script.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +23,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="D:/lab/memory_jq" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -58,7 +57,11 @@
       <workItem from="1588832004864" duration="78000" />
       <workItem from="1589711787865" duration="1984000" />
       <workItem from="1589732477115" duration="2115000" />
-      <workItem from="1589973621951" duration="40000" />
+      <workItem from="1589973621951" duration="654000" />
+      <workItem from="1590445328223" duration="582000" />
+      <workItem from="1590684380650" duration="53000" />
+      <workItem from="1600065223452" duration="1223000" />
+      <workItem from="1600823683137" duration="1591000" />
     </task>
     <servers />
   </component>
@@ -66,17 +69,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1588719836113">
+    <state x="709" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600823738236">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588719836113" />
-    <state width="498" height="398" key="SwitcherDM" timestamp="1588726749335">
+    <state x="709" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.25.1680.1010@0.0.1920.1040" timestamp="1600823738236" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600825010264">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="498" height="398" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1588726749335" />
-    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1588723376369">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588723376369" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.25.1680.1010@0.0.1920.1040" timestamp="1600825010264" />
   </component>
 </project>
